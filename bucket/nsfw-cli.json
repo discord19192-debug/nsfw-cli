@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "description": "nsfw-cli",
+  "homepage": "https://github.com/NavineDevs/nsfw-cli",
+  "license": "MIT",
+
+  "url": "https://github.com/discord19192-debug/nsfw-cli/releases/download/os/nsfw-cli.zip",
+
+  "bin": "nsfw-cli",
+
+  "depends": [
+    "git",
+    "mpv",
+    "yt-dlp",
+    "curl",
+    "jq"
+  ]
+}
